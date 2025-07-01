@@ -3,8 +3,8 @@
 Developer focused on building real-world applications with AI, FastAPI, and React. Currently based in Kazakhstan.
 ## Tech
 
-Backend: FastAPI, PostgreSQL, Redis  
-Frontend: React, Zustand, TailwindCSS  
+Backend: FastAPI
+Frontend: React
 ML: PyTorch, OpenAI API, Gemini  
 DevOps: Docker Compose, Azure VMs
 
